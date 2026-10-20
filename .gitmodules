@@ -4,3 +4,6 @@
 [submodule "BMICalc"]
 	path = BMICalc
 	url = https://github.com/pulle12/BMICalc
+[submodule "studentenverwaltung"]
+	path = studentenverwaltung
+	url = https://github.com/pulle12/studentenverwaltung
