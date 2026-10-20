@@ -1,9 +1,9 @@
 [submodule "01_ValidateBankPIN"]
 	path = 01_ValidateBankPIN
-	url = https://github.com/pulle12/ValidateBankPIN
+	url = https://github.com/pulle12/ValidateBankPIN.git
 [submodule "02_BMICalc"]
 	path = 02_BMICalc
-	url = https://github.com/pulle12/BMICalc
+	url = https://github.com/pulle12/BMICalc.git
 [submodule "03_studentenverwaltung"]
 	path = 03_studentenverwaltung
-	url = https://github.com/pulle12/studentenverwaltung
+	url = https://github.com/pulle12/studentenverwaltung.git
