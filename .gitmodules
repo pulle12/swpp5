@@ -7,3 +7,4 @@
 [submodule "03_studentenverwaltung"]
 	path = 03_studentenverwaltung
 	url = https://github.com/pulle12/studentenverwaltung.git
+	branch = main
